@@ -1,0 +1,23 @@
+J := function( n )
+local row, col, jay;
+jay := NullMat(n,n);
+for row in [1..n] do
+for col in [1..n] do
+jay[row,col] := 1;
+od;
+od;
+return jay;
+end;;
+
+eye := function( n )
+return( IdentityMat(n) );
+end;;
+
+allones := function( n)
+local i, jay;
+jay := [];;
+for i in [1..n] do
+Append(jay, [1]);;
+od;
+return jay;
+end;;
