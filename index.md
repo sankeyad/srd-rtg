@@ -8,8 +8,8 @@ $\Gamma=(4m^2-1, 2m^2, m^2, m^2)$.
 
 ## Available files
 1. GAP code and sample input
-   1. [construction of $\Gamma^{\pm}$](gap/Hadamard-RTG) from a symmetric Hadamard matrix H of order $2m$, and automorphism group. This is
-done once for each row of H in .
+   1. [construction](gap/Hadamard-RTG) of $\Gamma^{\pm}$ from a symmetric Hadamard matrix H of order $2m$, and automorphism group. This is
+done once for each row of H.  
    2. [eigenspace search](gap/eigenspace-search) for strongly regular decompositions within a candidate graph. This requires an input file with
 the adjacency matrix and candidate parameters, as in the sample input file.
 2. adjacency matrices
