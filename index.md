@@ -1,4 +1,4 @@
-# Strongly regular decompositions in the family (4m^2-1, 2m^2, m^2, m^2)
+# Strongly regular decompositions in descendants of regular twographs  
 
 ## Description  
 This site houses GAP code and text files for the constructions and analysis of strongly regular graphs in the family  
