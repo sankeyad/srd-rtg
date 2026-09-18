@@ -36,8 +36,6 @@ LoadPackage("AssociationSchemes");;   # can also put this on command line
 
 Read("eye-J.txt");;
 
-S := StronglyRegularGraphScheme(gamma);
-
 S := StronglyRegularGraphScheme(gamma);;
 M := IntersectionMatrices(S);;
 P := MatrixOfEigenvalues(S);;
