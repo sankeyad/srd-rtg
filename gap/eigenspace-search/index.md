@@ -3,5 +3,5 @@ The [sample input](sample input/index.md) folder includes some graphs that have 
 For this project (the regular twograph family) only the symplectic (well known) decompositions were found. Rather, the code here was used to verify that they don't exist in some other graphs, namely the Hadamard-constructed SRGs and the Klin63.  
 Adjacency matrices of those graphs are found in the [matrices](../../matrices/index.md) folder.
 
-  +You need this: [eye-J.txt](eye-J.txt)
-  +to run this: [eigenspace-search.g](eigenspace-search.g)
+  * You need this: [eye-J.txt](eye-J.txt)  
+  * to run this: [eigenspace-search.g](eigenspace-search.g)
