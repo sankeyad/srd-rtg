@@ -1,4 +1,4 @@
-Symmetric Hadamard matrices from Sloane's [library of Hadamard matrices](http://neilsloane.com/hadamard/)  
+Symmetric Hadamard matrices from Sloane's [library of Hadamard matrices](http://neilsloane.com/hadamard/) in GAP format.  
 * [H4.txt](H4.txt)  
 * [H8.txt](H8.txt)  
 * [H16.txt](H16.txt)  
