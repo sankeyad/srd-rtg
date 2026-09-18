@@ -6,6 +6,6 @@ Via the H16 Hadamard matrix, 16 graphs of order 256 were constructed. Below is o
 
 *  [graph1](graph1.txt)  
 *  [graph2](graph2.txt)  
-*  [graph3(graph3.txt)  
+*  [graph3](graph3.txt)  
 *  [graph5](graph5.txt)  
 *  [graph10](graph10.txt)  
