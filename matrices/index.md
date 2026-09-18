@@ -5,6 +5,6 @@ All are in GAP format. Some have additional formatting such as "mat1 := " prior 
 To make sense of these, please see the [preprint](../doc/sankey-srd-II.pdf).  
 
 * [m=2](m=2)  
-* [$m=4$](m=4)  
+* [m=4](m=4)  
 * [m=8](m=8)  
 * [m=10](m=10)
