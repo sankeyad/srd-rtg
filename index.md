@@ -1,10 +1,10 @@
-# Strongly regular decompositions in descendants of regular twographs
+# Strongly regular decompositions in the family (4m^2-1, 2m^2, m^2, m^2)
 
 ## Description  
 This site houses GAP code and text files for the constructions and analysis of strongly regular graphs in the family  
-$\Gamma^{\pm}=(4m^2, 2m^2\pm m, m^2\pm m, m^2\pm m)$.  
+$$\Gamma^{\pm}=(4m^2, 2m^2\pm, m^2\pm m, m^2\pm m).$$  
 These are representatives of *regular twographs* and therefore have strongly regular descendant graphs in the family  
-$\Gamma=(4m^2-1, 2m^2, m^2, m^2)$.  
+$$\Gamma=(4m^2-1, 2m^2, m^2, m^2).$$
 
 ## Available files
 1. GAP code and sample input
